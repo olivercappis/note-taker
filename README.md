@@ -15,7 +15,7 @@ This is a web application that allows users to save a title and text. it was mad
 
 ## Installation
 
-simply go to *insert link here*
+simply go to (https://note-taker-i1q5.onrender.com) to use this application
 
 ## Credits
 
